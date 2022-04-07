@@ -1,6 +1,6 @@
 # Web-Scraping
 
-Whenever we find a difficult word, the first thing we do is, we open our browser, type in whatever the word is and find the meaning. This dictionary uses Web scraping through [this]("https://www.dictionary.com/browse/") website and finds all the possible meanings of the word for you!
+Whenever we find a difficult word, the first thing we do is, we open our browser, type in whatever the word is and find the meaning. This dictionary uses Web scraping through [this][1] website and finds all the possible meanings of the word for you!
 
 <h2>To Run:</h2>
 1. Clone this repository to your desktop <br>
@@ -140,3 +140,5 @@ websocket-client==1.2.3
 widgetsnbextension==3.5.2
 zipp==3.7.0
 </b>
+
+[1]: https://www.dictionary.com/browse/
