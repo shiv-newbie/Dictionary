@@ -12,6 +12,8 @@ Whenever we find a difficult word, the first thing we do is, we open our browser
 8. If there are more than the given meanings, there will be a button named "Show More Definitions..." Click on it to see more definitions.<br>
 9. If there are no meanings for the word, it displays `Word: [word] not found`<br>
 
+[![IMAGE ALT TEXT HERE](https://drive.google.com/file/d/1pvDeKxUXBvPtg52LS6VSxm3O87eD7Rdy/view?usp=sharing)](https://drive.google.com/file/d/1pvDeKxUXBvPtg52LS6VSxm3O87eD7Rdy/view?usp=sharing)
+
 <b><h2>Required Libraries:</h2>
 anyio==3.5.0
 appnope==0.1.2
