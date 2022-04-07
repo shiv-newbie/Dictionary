@@ -5,12 +5,12 @@ Whenever we find a difficult word, the first thing we do is, we open our browser
 <h2>To Run:</h2>
 1. Clone this repository to your desktop <br>
 2. Open your terminal to inside the folder<br>
-3. Run the command: ` pip install -r requirements.txt ` to install all the libraries.<br>
-5. Run the command: ` python3 wordMeaning.py `<br>
+3. Run the command: \`pip install -r requirements.txt` to install all the libraries.<br>
+5. Run the command: \`python3 wordMeaning.py`<br>
 6. Write the word in the box above.<br>
 7. Your meaning will come in the box below.<br>
 8. If there are more than the given meanings, there will be a button named "Show More Definitions..." Click on it to see more definitions.<br>
-9. If there are no meanings for the word, it displays ` Word: [word] not found `<br>
+9. If there are no meanings for the word, it displays `Word: [word] not found`<br>
 
 <b><h2>Required Libraries:</h2>
 anyio==3.5.0
