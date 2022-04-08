@@ -3,6 +3,7 @@
 Whenever we find a difficult word, the first thing we do is, we open our browser, type in whatever the word is and find the meaning. This dictionary uses Web scraping through [this][1] website and finds all the possible meanings of the word for you!
 
 <h2>To Run:</h2>
+`motion_planning.py`
 1. Clone this repository to your desktop <br>
 2. Open your terminal to inside the folder<br>
 3. Run the command: `pip install -r requirements.txt` to install all the libraries.<br>
