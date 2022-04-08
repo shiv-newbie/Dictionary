@@ -2,7 +2,7 @@
 
 Whenever we find a difficult word, the first thing we do is, we open our browser, type in whatever the word is and find the meaning. This dictionary uses Web scraping through [this][1] website and finds all the possible meanings of the word for you!
 
-[![Dictionary Video](https://user-images.githubusercontent.com/67487860/162361724-4615bb5b-450e-4c9e-9d84-f61620e26524.mov)]
+![Dictionary Video](https://user-images.githubusercontent.com/67487860/162361724-4615bb5b-450e-4c9e-9d84-f61620e26524.mov)
 
 # To Run:
 1. Clone this repository to your desktop <br>
