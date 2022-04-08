@@ -2,10 +2,10 @@
 
 Whenever we find a difficult word, the first thing we do is, we open our browser, type in whatever the word is and find the meaning. This dictionary uses Web scraping through [this][1] website and finds all the possible meanings of the word for you!
 
-<h2>To Run:</h2>
+# To Run:
 1. Clone this repository to your desktop <br>
 2. Open your terminal to inside the folder<br>
-3. Run the command: `pip install -r requirements.txt` to install all the libraries.<br>
+3. Run the command:  <code>pip install -r requirements.txt </code> to install all the libraries.<br>
 5. Run the command: `python3 wordMeaning.py`<br>
 6. Write the word in the box above.<br>
 7. Your meaning will come in the box below.<br>
@@ -14,7 +14,7 @@ Whenever we find a difficult word, the first thing we do is, we open our browser
 
 [![IMAGE ALT TEXT HERE](https://drive.google.com/file/d/1pvDeKxUXBvPtg52LS6VSxm3O87eD7Rdy/view?usp=sharing)](https://drive.google.com/file/d/1pvDeKxUXBvPtg52LS6VSxm3O87eD7Rdy/view?usp=sharing)
 
-<b><h2>Required Libraries:</h2>
+# Required Libraries:
 anyio==3.5.0
 appnope==0.1.2
 argon2-cffi==21.3.0
