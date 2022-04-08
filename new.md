@@ -2,7 +2,7 @@
 
 Whenever we find a difficult word, the first thing we do is, we open our browser, type in whatever the word is and find the meaning. This dictionary uses Web scraping through [this][1] website and finds all the possible meanings of the word for you!
 
-https://user-images.githubusercontent.com/67487860/162361724-4615bb5b-450e-4c9e-9d84-f61620e26524.mov
+[![Dictionary Video](https://user-images.githubusercontent.com/67487860/162361724-4615bb5b-450e-4c9e-9d84-f61620e26524.mov)]
 
 # To Run:
 1. Clone this repository to your desktop <br>
@@ -13,8 +13,6 @@ https://user-images.githubusercontent.com/67487860/162361724-4615bb5b-450e-4c9e-
 7. Your meaning will come in the box below.<br>
 8. If there are more than the given meanings, there will be a button named "Show More Definitions..." Click on it to see more definitions.<br>
 9. If there are no meanings for the word, it displays `Word: [word] not found`<br>
-
-[![IMAGE ALT TEXT HERE](https://drive.google.com/file/d/1pvDeKxUXBvPtg52LS6VSxm3O87eD7Rdy/view?usp=sharing)](https://drive.google.com/file/d/1pvDeKxUXBvPtg52LS6VSxm3O87eD7Rdy/view?usp=sharing)
 
 # Required Libraries:
 anyio==3.5.0
